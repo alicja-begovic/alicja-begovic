@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-My name is Alicja, and I am junior frontend developer. Nice to meet you :)
+My name is Alicja, and I am junior frontend developer. Nice to meet you
 
 <!--
 **alicja-begovic/alicja-begovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
