@@ -17,10 +17,8 @@ I work on my Love Calculator to better understand React & Typescript, and also o
 - Git,
 - Github.
 
-## Technologies which I want to improve / learn
+## Technologies which I want to learn
 
-- JavaScript,
-- React,
 - TypeScript,
 - C#,
 - MongoDB.
