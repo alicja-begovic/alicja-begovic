@@ -6,7 +6,7 @@ My name is Alicja, and I am junior frontend developer. Nice to meet you 😃.
 
 I work on my Love Calculator to better understand React & Typescript, and also on a simple Newsletter.
 
-## Technologies which I use in projects
+## Technologies that I use in projects
 
 - HTML,
 - CSS,
@@ -17,7 +17,7 @@ I work on my Love Calculator to better understand React & Typescript, and also o
 - Git,
 - Github.
 
-## Technologies which I want to learn
+## Technologies that I want to learn
 
 - TypeScript,
 - C#,
