@@ -22,7 +22,8 @@ I work on my Love Calculator to better understand React & Typescript, and also o
 - TypeScript,
 - Tailwind,
 - SQL,
-- GraphQL.
+- GraphQL,
+- Python
 
 ## Hobbies
 
