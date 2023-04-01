@@ -23,7 +23,8 @@ I work on my Love Calculator to better understand React & Typescript, and also o
 - Tailwind,
 - SQL,
 - GraphQL,
-- Python
+- Python,
+- jQuery.
 
 ## Hobbies
 
