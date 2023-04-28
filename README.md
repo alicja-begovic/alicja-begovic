@@ -21,10 +21,10 @@ I work on my Love Calculator to better understand React & Typescript, and also o
 
 - TypeScript,
 - Tailwind,
-- SQL,
+- Tests,
+- Next.js,
 - GraphQL,
-- Python,
-- jQuery.
+- React Native.
 
 ## Hobbies
 
