@@ -4,7 +4,7 @@ My name is Alicja, and I am junior frontend developer. Nice to meet you 😃.
 
 ## My current projects
 
-I'm currently immersed in Counter Strike 2's frontend development, with a strong emphasis on React. I'm also sharpening my React skills through small projects.
+I'm sharpening my React skills through small projects.
 
 ## Technologies that I use in projects
 
