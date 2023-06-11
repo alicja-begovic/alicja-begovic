@@ -4,7 +4,7 @@ My name is Alicja, and I am junior frontend developer. Nice to meet you 😃.
 
 ## My current projects
 
-I'm sharpening my React skills through small projects.
+I'm sharpening my React skills through the React course and implementing my knowledge into small projects.
 
 ## Technologies that I use in projects
 
@@ -19,8 +19,8 @@ I'm sharpening my React skills through small projects.
 
 ## Technologies that I want to learn
 
+- Next.js,
 - TypeScript,
 - Tailwind,
 - Unit Tests,
-- Next.js,
 - GraphQL.
