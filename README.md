@@ -19,7 +19,7 @@ I'm sharpening my React skills through the React course and implementing my know
 
 ## Currently learning:
 
-- Typescript
+- TypeScript
 
 ## Technologies that I want to learn
 
