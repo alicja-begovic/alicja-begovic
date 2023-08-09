@@ -24,7 +24,6 @@ I'm sharpening my React skills through the React course and implementing my know
 ## Technologies that I want to learn
 
 - Next.js,
-- TypeScript,
 - Tailwind,
 - Unit Tests,
 - GraphQL.
