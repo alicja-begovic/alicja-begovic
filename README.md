@@ -17,6 +17,10 @@ I'm sharpening my React skills through the React course and implementing my know
 - Git,
 - Github.
 
+## Currently learning:
+
+- Typescript
+
 ## Technologies that I want to learn
 
 - Next.js,
