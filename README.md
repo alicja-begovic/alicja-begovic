@@ -1,10 +1,10 @@
 # Hi there 👋
 
-My name is Alicja, and I am junior frontend developer. Nice to meet you 😃.
+My name is Alicja, and I am a junior front-end developer. Nice to meet you 😃.
 
 ## My current projects
 
-I'm sharpening my React skills through the React course and implementing my knowledge into small projects.
+I'm sharpening my React skills and implementing my knowledge into small projects.
 
 ## Technologies that I use in projects
 
@@ -19,6 +19,7 @@ I'm sharpening my React skills through the React course and implementing my know
 
 ## Currently learning:
 
+- React.js
 - TypeScript
 
 ## Technologies that I want to learn
