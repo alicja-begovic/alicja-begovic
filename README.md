@@ -15,17 +15,18 @@ I'm sharpening my React skills and implementing my knowledge into small projects
 - Node.js,
 - React,
 - Git,
-- Github.
+- Github,
+- Tailwind
 
 ## Currently learning:
 
 - React.js
 - TypeScript
 
+
 ## Technologies that I want to learn
 
 - Next.js,
-- Tailwind,
 - Unit Tests,
 - GraphQL,
 - Vue.js,
