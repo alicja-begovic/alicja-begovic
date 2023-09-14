@@ -27,4 +27,6 @@ I'm sharpening my React skills and implementing my knowledge into small projects
 - Next.js,
 - Tailwind,
 - Unit Tests,
-- GraphQL.
+- GraphQL,
+- Vue.js,
+- Python.
