@@ -27,6 +27,7 @@ I'm sharpening my React skills and implementing my knowledge into small projects
 ## Technologies that I want to learn
 
 - Unit Tests,
+- GraphQL,
 - SQL,
 - Vue.js,
 - Python,
