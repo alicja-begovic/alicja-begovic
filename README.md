@@ -4,7 +4,7 @@ My name is Alicja, and I am a junior front-end developer. Nice to meet you 😃.
 
 ## My current projects
 
-I'm sharpening my React skills and implementing my knowledge into small projects.
+Coming soon...
 
 ## Technologies that I use in projects
 
