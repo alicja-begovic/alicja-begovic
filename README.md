@@ -20,15 +20,12 @@ I'm sharpening my React skills and implementing my knowledge into small projects
 
 ## Currently learning:
 
-- React.js,
-- TypeScript.
-
+- React.js
 
 ## Technologies that I want to learn
 
 - Unit Tests,
 - GraphQL,
 - SQL,
-- Vue.js,
 - Python,
 - Next.js.
