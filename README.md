@@ -1,31 +1,27 @@
 # Hi there 👋
 
-My name is Alicja, and I am a junior front-end developer. Nice to meet you 😃.
+Welcome to my profile, how can I help you?
 
-## My current projects
-
-Coming soon...
-
-## Technologies that I use in projects
+## Technologies that I know
 
 - HTML,
 - CSS,
 - SASS,
 - JavaScript,
-- Node.js,
-- React,
 - Git,
 - Github,
-- Tailwind.
+- React.js.
 
-## Currently learning:
+## Technologies I know something about:
 
-- React.js
+- Tailwind,
+- Python,
+- SQL,
+- Node.js,
+- TypeScript.
 
 ## Technologies that I want to learn
 
 - Unit Tests,
 - GraphQL,
-- SQL,
-- Python,
 - Next.js.
