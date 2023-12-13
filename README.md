@@ -16,12 +16,11 @@ Welcome to my profile, how can I help you?
 
 - Tailwind,
 - Python,
-- SQL,
-- Node.js,
-- TypeScript.
+- Node.js.
 
 ## Technologies that I want to learn
 
 - Unit Tests,
 - GraphQL,
-- Next.js.
+- C#,
+- .Net.
