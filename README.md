@@ -24,3 +24,5 @@ Welcome to my profile, how can I help you?
 - GraphQL,
 - C#,
 - .Net.
+
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
