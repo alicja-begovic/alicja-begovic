@@ -24,7 +24,6 @@ I am a junior front-end developer open to new challenges.
 <p align="center">
   <h1>Technologies I know</h1>
   <a href="https://skillicons.dev">
-    
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
