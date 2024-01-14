@@ -6,17 +6,10 @@ I am a junior front-end developer open to new challenges.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,git,github,js,tailwind,react,pwa)](https://skillicons.dev)
 
-## Technologies I know something about:
+## Technologies I want to improve:
 
-- Tailwind,
-- Python,
-- Node.js.
+[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 
-## Technologies that I want to learn
+## Technologies I want to learn
 
-- Unit Tests,
-- GraphQL,
-- C#,
-- .Net.
-
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,graphql,next)](https://skillicons.dev)
