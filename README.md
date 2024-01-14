@@ -4,7 +4,7 @@ I am a junior front-end developer open to new challenges.
 
 ## Technologies that I know
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,git,github,js,tailwind,react,pwa)](https://skillicons.dev)
 
 ## Technologies I know something about:
 
