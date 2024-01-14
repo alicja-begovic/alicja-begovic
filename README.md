@@ -1,16 +1,10 @@
-# Hi there 👋
+# Welcome on my profile 👋
 
-Welcome to my profile, how can I help you?
+I am a junior front-end developer open to new challenges.
 
 ## Technologies that I know
 
-- HTML,
-- CSS,
-- SASS,
-- JavaScript,
-- Git,
-- Github,
-- React.js.
+[![My Skills](https://skillicons.dev/icons?i=html,css,wasm)](https://skillicons.dev)
 
 ## Technologies I know something about:
 
@@ -26,3 +20,9 @@ Welcome to my profile, how can I help you?
 - .Net.
 
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
