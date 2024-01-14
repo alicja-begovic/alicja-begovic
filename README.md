@@ -13,3 +13,7 @@ I am a junior front-end developer open to new challenges.
 ## Technologies I want to learn
 
 [![My Skills](https://skillicons.dev/icons?i=ts,graphql,next)](https://skillicons.dev)
+
+## Project I am working on:
+
+coming soon...
