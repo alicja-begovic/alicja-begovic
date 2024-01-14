@@ -23,6 +23,7 @@ I am a junior front-end developer open to new challenges.
 
 <p align="center">
   <a href="https://skillicons.dev">
+    <h1 align="center">Technologies I know:</h1>
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
