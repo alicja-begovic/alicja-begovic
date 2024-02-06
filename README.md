@@ -2,13 +2,9 @@
 
 I am a junior front-end developer open to new challenges.
 
-## Technologies that I know
+## Technologies I know
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,git,github,js,tailwind,react,pwa)](https://skillicons.dev)
-
-## Technologies I want to improve:
-
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 
 ## Technologies I want to learn
 
