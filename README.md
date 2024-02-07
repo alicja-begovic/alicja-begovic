@@ -4,11 +4,27 @@ I am a junior front-end developer open to new challenges.
 
 ## Technologies I know
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,git,github,js,tailwind,react,pwa)](https://skillicons.dev)
+- HTML,
+- CSS,
+- SASS,
+- GIT,
+- GitHub,
+- JavaScript,
+- Tailwind,
+- React,
+- npm,
+- webpack,
+- PWA.
 
 ## Technologies I want to learn
 
-[![My Skills](https://skillicons.dev/icons?i=ts,graphql,next)](https://skillicons.dev)
+- npm scripts,
+- Unit Tests,
+- TypeScript,
+- GraphQL,
+- C#,
+- .NET,
+- Node.js.
 
 ## Project I am working on:
 
