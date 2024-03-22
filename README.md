@@ -28,4 +28,4 @@ I am a junior front-end developer open to new challenges.
 
 ## Project I am working on:
 
-coming soon...
+Memory game
