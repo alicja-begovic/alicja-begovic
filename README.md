@@ -22,7 +22,8 @@ I am a junior front-end developer open to new challenges.
 - Unit Tests,
 - TypeScript,
 - GraphQL,
-- Node.js.
+- Node.js,
+- C++ or C#.
 
 ## Project I am working on:
 
