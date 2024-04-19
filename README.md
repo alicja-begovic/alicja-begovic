@@ -27,4 +27,4 @@ I am a junior front-end developer open to new challenges.
 
 ## Project I am working on:
 
-Simple project with API
+The Lord of the Ring Quizz App
