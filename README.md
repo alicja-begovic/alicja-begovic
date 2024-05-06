@@ -19,6 +19,7 @@ I am a junior front-end developer open to new challenges.
 ## Technologies I want to learn
 
 - npm scripts,
+- SQL,
 - Unit Tests,
 - TypeScript,
 - GraphQL,
