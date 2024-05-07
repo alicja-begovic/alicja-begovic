@@ -24,7 +24,9 @@ I am a junior front-end developer open to new challenges.
 - TypeScript,
 - GraphQL,
 - Node.js,
-- C++ or C#.
+- C#,
+- .NET,
+- jQuery,
 
 ## Project I am working on:
 
