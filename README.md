@@ -33,4 +33,4 @@ I am a junior front-end developer open to new challenges.
 
 ## Project I am working on:
 
-API project
+Project with connection to Firebase
