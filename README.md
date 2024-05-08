@@ -10,24 +10,27 @@ I am a junior front-end developer open to new challenges.
 - GIT,
 - GitHub,
 - JavaScript,
-- Tailwind,
 - React,
 - npm,
 - webpack,
 - PWA.
 
+## Technologies I know something about:
+
+- Tailwind,
+- SQL,
+- jQuery,
+- TypeScript,
+
 ## Technologies I want to learn
 
-- npm scripts,
-- SQL,
 - Unit Tests,
-- TypeScript,
 - GraphQL,
 - Node.js,
 - C#,
 - .NET,
-- jQuery,
+
 
 ## Project I am working on:
 
-The Lord of the Ring Quizz App
+Scooby Doo movies list with API 
