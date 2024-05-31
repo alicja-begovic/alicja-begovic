@@ -18,6 +18,7 @@ I am a junior front-end developer open to new challenges.
 ## Technologies I know something about:
 
 - Tailwind,
+- Python,
 - SQL,
 - jQuery,
 - TypeScript,
