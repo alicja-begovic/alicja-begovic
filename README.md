@@ -19,7 +19,7 @@ I am a junior front-end developer open to new challenges.
 - GIT,
 - GitHub.
 
-## Currently learning:
+## Currently learning/improving:
 - GraphQL,
 - Python,
 - TypeScript,
@@ -28,10 +28,11 @@ I am a junior front-end developer open to new challenges.
 ## Technologies I want to learn
 
 - Unit Tests,
+- SQL,
 - C#,
 - .NET,
 
 
 ## Project I am working on:
 
-Project with connection to Firebase
+Project with using Python.
