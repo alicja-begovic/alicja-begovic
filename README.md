@@ -5,29 +5,29 @@ I am a junior front-end developer open to new challenges.
 ## Technologies I know
 
 - HTML,
+- BEM,
 - CSS,
-- SASS,
-- GIT,
-- GitHub,
-- JavaScript,
-- React,
-- npm,
-- webpack,
-- PWA.
-
-## Technologies I know something about:
-
+- SCSS,
 - Tailwind,
+- PWA,
+- Webpack,
+- JavaScript,
+- React.js,
+- Typescript,
 - Python,
-- SQL,
 - jQuery,
+- GIT,
+- GitHub.
+
+## Currently learning:
+- GraphQL,
+- Python,
 - TypeScript,
+- node.js.
 
 ## Technologies I want to learn
 
 - Unit Tests,
-- GraphQL,
-- Node.js,
 - C#,
 - .NET,
 
