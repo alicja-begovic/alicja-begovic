@@ -15,7 +15,6 @@ I am a junior front-end developer open to new challenges.
 - React.js,
 - Typescript,
 - Python,
-- jQuery,
 - GIT,
 - GitHub.
 
@@ -23,7 +22,8 @@ I am a junior front-end developer open to new challenges.
 - GraphQL,
 - Python,
 - TypeScript,
-- node.js.
+- node.js,
+- jQuery.
 
 ## Technologies I want to learn
 
