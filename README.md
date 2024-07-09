@@ -16,7 +16,8 @@ I am a junior front-end developer open to new challenges.
 - Typescript,
 - Python,
 - GIT,
-- GitHub.
+- GitHub,
+- Figma.
 
 ## Currently learning/improving:
 - GraphQL,
@@ -35,4 +36,6 @@ I am a junior front-end developer open to new challenges.
 
 ## Project I am working on:
 
-Project with using Python.
+- project with using python,
+- creating design for website,
+- game.
