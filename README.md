@@ -13,7 +13,6 @@ I am a junior front-end developer open to new challenges.
 - Webpack,
 - JavaScript,
 - React.js,
-- Python,
 - GIT,
 - GitHub,
 - Figma.
