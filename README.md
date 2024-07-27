@@ -19,19 +19,24 @@ I am a junior front-end developer open to new challenges.
 - GitHub,
 - Figma.
 
-## Currently learning/improving:
-- GraphQL,
+## Technologies I know something about:
+
 - Python,
 - TypeScript,
-- node.js,
-- jQuery.
+
+## Currently learning:
+
+- GraphQL,
+- Java.
 
 ## Technologies I want to learn
 
 - Unit Tests,
 - SQL,
 - C#,
-- .NET,
+- node.js,
+- jQuery.
+- .NET.
 
 
 ## Project I am working on:
