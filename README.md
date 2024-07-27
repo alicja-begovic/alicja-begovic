@@ -13,7 +13,6 @@ I am a junior front-end developer open to new challenges.
 - Webpack,
 - JavaScript,
 - React.js,
-- Typescript,
 - Python,
 - GIT,
 - GitHub,
@@ -22,7 +21,7 @@ I am a junior front-end developer open to new challenges.
 ## Technologies I know something about:
 
 - Python,
-- TypeScript,
+- TypeScript.
 
 ## Currently learning:
 
@@ -41,6 +40,4 @@ I am a junior front-end developer open to new challenges.
 
 ## Project I am working on:
 
-- project with using python,
-- creating design for website,
-- game.
+False friends memory game in different languages.
