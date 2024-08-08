@@ -24,21 +24,17 @@ I am a junior front-end developer open to new challenges.
 
 ## Currently learning:
 
-- GraphQL,
-- Java,
-- jQuery.
+- Node.js,
+- jQuery,
+- Java.
 
 ## Technologies I want to learn
 
 - Unit Tests,
 - SQL,
 - C#,
-- .NET,
-- node.js,
-
-
-
+- .NET.
 
 ## Project I am working on:
 
-False friends memory game Polish - Czech edition.
+Landing page + extra features.
