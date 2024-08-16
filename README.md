@@ -25,7 +25,6 @@ I am a junior front-end developer open to new challenges.
 ## Currently learning:
 
 - Node.js,
-- jQuery,
 - Java.
 
 ## Technologies I want to learn
@@ -37,4 +36,4 @@ I am a junior front-end developer open to new challenges.
 
 ## Project I am working on:
 
-Landing page + extra features.
+False Friends challenge memo game.
