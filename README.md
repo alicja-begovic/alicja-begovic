@@ -1,6 +1,6 @@
 # Welcome on my profile 👋
 
-I am a junior front-end developer open to new challenges.
+I am a junior front-end developer who aspires to become a full-stack developer/software engineer.
 
 ## Technologies I know
 
@@ -20,17 +20,18 @@ I am a junior front-end developer open to new challenges.
 ## Technologies I know something about:
 
 - Python,
-- TypeScript.
+- TypeScript,
+- SQL.
 
-## Currently learning:
+## Currently learning/improving:
 
-- Node.js,
-- Java.
+- Python
 
 ## Technologies I want to learn
 
 - Unit Tests,
-- SQL,
+- Java,
+- node.js,
 - C#,
 - .NET.
 
