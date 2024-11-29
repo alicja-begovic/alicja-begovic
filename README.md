@@ -25,16 +25,15 @@ I am a junior front-end developer who aspires to become a full-stack developer/s
 
 ## Currently learning/improving:
 
-- Python
+- Java
 
 ## Technologies I want to learn
 
 - Unit Tests,
-- Java,
 - node.js,
 - C#,
 - .NET.
 
 ## Project I am working on:
 
-False Friends challenge memo game.
+Python converter miles - kilometers
