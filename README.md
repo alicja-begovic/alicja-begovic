@@ -22,7 +22,7 @@ I am a junior front-end developer who aspires to become a full-stack developer/s
 - Python,
 - TypeScript,
 - SQL,
-- Unit Tests - Jest
+- Unit Tests.
 
 ## Currently learning/improving:
 
