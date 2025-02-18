@@ -21,7 +21,8 @@ I am a junior front-end developer who aspires to become a full-stack developer/s
 
 - Python,
 - TypeScript,
-- SQL.
+- SQL,
+- Unit Tests - Jest
 
 ## Currently learning/improving:
 
@@ -29,7 +30,6 @@ I am a junior front-end developer who aspires to become a full-stack developer/s
 
 ## Technologies I want to learn
 
-- Unit Tests,
 - node.js,
 - C#,
 - .NET.
