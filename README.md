@@ -24,16 +24,9 @@ I am a junior front-end developer who aspires to become a full-stack developer/s
 - SQL,
 - Unit Tests.
 
-## Currently learning/improving:
-
-- Java
-
 ## Technologies I want to learn
 
 - node.js,
 - C#,
-- .NET.
-
-## Project I am working on:
-
-Python converter miles - kilometers
+- Java,
+- C++.
