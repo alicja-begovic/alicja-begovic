@@ -1,32 +1,23 @@
-# Welcome on my profile 👋
+# 👩‍💻 Hi there! I'm a Junior Software Engineer
 
-I am a junior front-end developer who aspires to become a full-stack developer/software engineer.
+I'm a junior software engineer interested in building reliable, scalable, and user-centered applications. My goal is to grow into a well-rounded software engineer, gain experience across the full stack, and work on meaningful, impactful projects.
 
-## Technologies I know
+I'm passionate about learning new technologies, writing clean and maintainable code, and continuously improving my skills in software development.
 
-- HTML,
-- BEM,
-- CSS,
-- SCSS,
-- Tailwind,
-- PWA,
-- Webpack,
-- JavaScript,
-- React.js,
-- GIT,
-- GitHub,
-- Figma.
+---
 
-## Technologies I know something about:
+## 🛠️ Technologies I work with
 
-- Python,
-- TypeScript,
-- SQL,
-- Unit Tests.
+- **Frontend**: HTML, BEM, CSS, SCSS, Tailwind, JavaScript, React.js, Webpack
+- **Other tools**: PWA, Git, GitHub, Figma
 
-## Technologies I want to learn
+## 🌱 Currently exploring
 
-- node.js,
-- C#,
-- Java,
-- C++.
+- **Backend & Full-Stack**: Python, TypeScript, SQL, Unit Testing
+- **Next on my list**: Node.js, C#, Java, C++
+
+---
+
+## 📫 Let’s connect!
+
+You can find me on [LinkedIn](https://your-linkedin-url) or reach out here on GitHub. I’m always open to collaboration, learning opportunities, or just a tech chat!
