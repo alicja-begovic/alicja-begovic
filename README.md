@@ -20,4 +20,4 @@ I'm passionate about learning new technologies, writing clean and maintainable c
 
 ## 📫 Let’s connect!
 
-You can find me on [LinkedIn](https://your-linkedin-url) or reach out here on GitHub. I’m always open to collaboration, learning opportunities, or just a tech chat!
+You can find me on [LinkedIn](https://www.linkedin.com/in/alicja-begovi%C4%87-472424232/) or reach out here on GitHub. I’m always open to collaboration, learning opportunities, or just a tech chat!
