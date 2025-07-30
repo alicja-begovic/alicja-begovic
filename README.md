@@ -8,7 +8,7 @@ I'm passionate about learning new technologies, writing clean and maintainable c
 
 ## 🛠️ Technologies I work with
 
-- **Frontend**: HTML, BEM, CSS, SCSS, Tailwind, JavaScript, React.js, Webpack
+- **Frontend**: HTML, CSS, SCSS, Tailwind, JavaScript, React.js
 - **Other tools**: PWA, Git, GitHub, Figma
 
 ## 🌱 Currently exploring
